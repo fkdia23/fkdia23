@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 -->
 
 **Data Engineer · AI Engineer**
+
 ---
 Building data systems and LLM pipelines that hold in production.
 Daily focus on cost, latency, and energy — because performance is not optional.
@@ -25,6 +26,7 @@ Daily focus on cost, latency, and energy — because performance is not optional
 `Azure · Databricks · Synapse` `Terraform` `Docker · K8s` `Prometheus · Grafana` `GitLab CI`
 
 ---
+
 ### Principles
 | | |
 |---|---|
@@ -33,12 +35,15 @@ Daily focus on cost, latency, and energy — because performance is not optional
 | cost awareness | FinOps mindset |
 | energy optimization | Go · low-level |
 | open to | Airflow · GCP · CFT |
+
 ---
+
 ### Links
 [![Portfolio](https://img.shields.io/badge/portfolio-fkdia23.github.io-BA7517?style=flat-square&labelColor=1a1a1a)](https://fkdia23.github.io/)
 [![GitHub](https://img.shields.io/badge/github-fkdia23-555?style=flat-square&logo=github&labelColor=1a1a1a)](https://github.com/fkdia23)
 [![LinkedIn](https://img.shields.io/badge/linkedin-connect-0A66C2?style=flat-square&logo=linkedin&labelColor=1a1a1a)](https://linkedin.com/in/your-slug)
 [![Hugging Face](https://img.shields.io/badge/huggingface-fkdia23-FFD21E?style=flat-square&logo=huggingface&labelColor=1a1a1a&logoColor=FFD21E)](https://huggingface.co/fkdia23)
+
 ---
 
 <div align="center">
