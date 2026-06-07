@@ -13,21 +13,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-
-# fkdia23
-
 **Data Engineer · AI Engineer**
-
-</div>
-
 ---
 Building data systems and LLM pipelines that hold in production.
 Daily focus on cost, latency, and energy — because performance is not optional.
 ---
+
 ### Stack
+
 `Python` `PySpark` `Go` `SQL` `LangChain` `RAG · FAISS · Milvus`
 `Azure · Databricks · Synapse` `Terraform` `Docker · K8s` `Prometheus · Grafana` `GitLab CI`
+
 ---
 ### Principles
 | | |
