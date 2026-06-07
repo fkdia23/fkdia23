@@ -1,6 +1,7 @@
 <div align="center">
-![fkdia23](https://raw.githubusercontent.com/fkdia23/fkdia23/main/readme_card.png)
- 
+
+ ![fkdia23](https://raw.githubusercontent.com/fkdia23/fkdia23/main/readme_card.png)
+
 </div>
 ---
  
