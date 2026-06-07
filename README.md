@@ -2,7 +2,7 @@
 <div align="center">
 
 
- ![fkdia23](https://raw.githubusercontent.com/fkdia23/fkdia23/main/about_card.png)
+ ![fkdia23](https://raw.githubusercontent.com/fkdia23/fkdia23/main/about_card_en_uhd.png)
 
 </div>
 
